@@ -20,3 +20,10 @@ let soupArray =v['potato', 'brocoli', 'carrot', 'chicken noodle', 'chilli'];
 for(soup of soupArray){
     console.log(soup);
 }
+
+
+
+let catArray = ['tabby', 'british shorthair', 'catty', "cattybee"];
+for(cat in catArray){
+    console.log(cat)
+}

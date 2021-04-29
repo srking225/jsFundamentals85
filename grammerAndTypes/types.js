@@ -55,10 +55,10 @@ console.log(typeof burritos);
 let car = "Ford";
 
 //  Number Literals
-Let December = 12;
+let December = 12;
 
 // Boolean Literals
-Let tired = true;
+let tired = true;
 
 // Object Literals 
 let soup = {

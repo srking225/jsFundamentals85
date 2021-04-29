@@ -22,7 +22,7 @@ for(let i = 0; i <= 20; i += 2){    //count to 20 in increments of 2 //
     console.log(i);
 }
 
-for(let t = 10; t >= 1; t -= ){      //count from 10 to 1 increments of 1//
+for(let t = 10; t >= 1; t--){      //count from 10 to 1 increments of 1//
     console.log(t);
 }
 
@@ -33,14 +33,24 @@ for(let y = 0; y >= -24 ; y -= 2 ){
 
 //go through a name and display each letter individually
 let name1 = 'Isaiah';
-for (let i = 0 > name1.length; i++ ){
+for (let i = 0 ; i > name1.length; i++ ){
     console.log(name1[i]);
 }
 
 
 //MAKE A LOOP WHERE YOUU ADD UP ALL NUMBERS FROM 1 TO 50
 let sum = 0;
-for(let i = 1 i <= 50 i++){
+for(let i = 1; i <= 50; i++){
     sum += i;
  }
-  console.log(sum[p]);
+  console.log(sum);
+
+
+  for(let j = 0; j <= 10; j+=2){
+      console.log(j);
+  }
+
+  let count = 0
+  for( ; count < 9; ++count){
+      console.log(count);
+  }
