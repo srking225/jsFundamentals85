@@ -43,7 +43,7 @@ console.log(netflix.season1.seasonInfo);
 //targeting a nested object inside an array
 console.log(netflix.season1.seasonInfo.episodeInfo[5]);
 
-//how can be find name of episode after stepping thru braket notation
+//how can be find name of episode after stepping thru bracket notation
 console.log(netflix.season1.seasonInfo.episodeInfo[5].episodeName);
 
 /*
